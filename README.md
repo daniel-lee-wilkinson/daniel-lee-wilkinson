@@ -25,7 +25,7 @@ Each project entry includes a short description and badges for the main technolo
 | Project | Key Tasks | Skills Used |
 |---------|-----------|-------------|
 | [**Streamlit Ecodesign Dashboard**](https://github.com/daniel-lee-wilkinson/aerostream) | Developed an interactive tool to estimate climate impact of design choices in mechanical systems | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit) |
-| [**Umberto R Package**](https://github.com/daniel-lee-wilkinson/openlca-2-r) *(private)* | Automated extraction, cleaning, and visualisation of LCA data from Umberto 11 | ![R](https://img.shields.io/badge/R-blue?logo=r) ![data.table](https://img.shields.io/badge/data.table-green) ![ggplot2](https://img.shields.io/badge/ggplot2-blue) |
+| [**Umberto R Package**](https://github.com/daniel-lee-wilkinson/openlca-2-r) *(private)* | Automated extraction, cleaning, and visualisation of life cycle assessment (LCA) data from Umberto 11 | ![R](https://img.shields.io/badge/R-blue?logo=r) ![data.table](https://img.shields.io/badge/data.table-green) ![ggplot2](https://img.shields.io/badge/ggplot2-blue) |
 
 ### 🧱 Spatial & Mobility Analysis
 | Project | Key Tasks | Skills Used |
@@ -35,7 +35,7 @@ Each project entry includes a short description and badges for the main technolo
 ### 🔧 Internal Tools & Automation
 | Project | Key Tasks | Skills Used |
 |---------|-----------|-------------|
-| [**Python Patent Tool**](https://github.com/daniel-lee-wilkinson/aerostream) *(internal GUI, private)* | GUI app that helps engineers assess patentability by generating and logging valid IKOFAX search queries for DEPATISnet; designed for non-technical users with clipboard integration and reproducibility tracking | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-grey) |
+| [**Python Patent Tool**](https://github.com/daniel-lee-wilkinson/aerostream) *(internal GUI, private)* | GUI app that helps engineers assess patentability by generating and logging valid IKOFAX search queries for DEPATISnet (German Patent Office); designed for non-technical users with clipboard integration and reproducibility tracking | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-grey) |
 | [**Flask Skill-Gap Tool**](https://github.com/daniel-lee-wilkinson/skill-bubbles) *(in development)* | Visualises organisational skill distribution vs project demands based on user self-ratings and internal DB | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Flask](https://img.shields.io/badge/Flask-grey?logo=flask) |
 
 ### 🏃 Personal Projects & Fitness
