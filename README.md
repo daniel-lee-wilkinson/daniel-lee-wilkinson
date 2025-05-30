@@ -20,6 +20,14 @@ Each project entry includes a short description and badges for the main technolo
 | [**CO₂ Sensor KPI Pipeline**](https://github.com/daniel-lee-wilkinson/aerostream) *(private)* | Built and scheduled a pipeline that collects sensor data via API, cleans and stores it, calculates KPIs, and produces Excel and Word reports daily | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Library: aiohttp](https://img.shields.io/badge/Library-aiohttp-grey) ![Library: pandas](https://img.shields.io/badge/Library-pandas-green?logo=pandas) ![Database: SQLite](https://img.shields.io/badge/Database-SQLite-grey?logo=sqlite) ![Document Output: openpyxl](https://img.shields.io/badge/Document_Output-openpyxl-grey) ![Document Output: python-docx](https://img.shields.io/badge/Document_Output-python--docx-grey) |
 | [**Extended KPI Calculator**](https://github.com/daniel-lee-wilkinson/aerostream) *(in progress, private)* | Enhancing the KPI pipeline with 20+ custom engineering metrics derived from sensor data and domain equations | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Library: pandas](https://img.shields.io/badge/Library-pandas-green?logo=pandas) |
 
+### Streaming and Event-Driven Systems
+
+| Project | Key Tasks | Skills Used |
+|---------|-----------|-------------|
+| [**Aerostream: Sensor Stream Simulation Platform**]([#](https://github.com/daniel-lee-wilkinson/aerostream)) *(in development, private)* | Simulates real-time sensor streams in an industrial context, processes and stores data via Kafka and PostgreSQL, and displays interactive metrics in a Streamlit dashboard. Designed as a sandbox for event-driven architecture and containerised multi-service deployment. | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Streaming: Kafka](https://img.shields.io/badge/Streaming-Kafka-black?logo=apachekafka) ![Database: PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql) ![API: FastAPI](https://img.shields.io/badge/API-FastAPI-teal?logo=fastapi) ![Visualisation: Streamlit](https://img.shields.io/badge/Visualisation-Streamlit-red?logo=streamlit) ![Container: Docker](https://img.shields.io/badge/Deployment-Docker-lightblue?logo=docker) |
+
+
+
 ### Sustainability, LCA & Environmental Tools
 | Project | Key Tasks | Skills Used |
 |---------|-----------|-------------|
