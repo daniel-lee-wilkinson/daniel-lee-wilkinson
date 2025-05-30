@@ -36,6 +36,7 @@ Each project entry includes a short description and badges for the main technolo
 |---------|-----------|-------------|
 | [**Python Patent Tool**](https://github.com/daniel-lee-wilkinson/aerostream) *(internal GUI, private)* | GUI app that helps engineers assess patentability by generating and logging valid IKOFAX search queries for DEPATISnet (German Patent Office); designed for non-technical users with clipboard integration and reproducibility tracking | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Interface: Tkinter](https://img.shields.io/badge/Interface-Tkinter-grey) |
 | [**Flask Skill-Gap Tool**](https://github.com/daniel-lee-wilkinson/skill-bubbles) *(in development)* | Visualises organisational skill distribution vs project demands based on user self-ratings and internal DB | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Interface: Flask](https://img.shields.io/badge/Interface-Flask-grey?logo=flask) |
+| **Variable Network Visualiser** *(private)* | Interactive network graph to map and explore dependencies between engineering variables. Lines and arrows indicate strength and direction of relationships. Built collaboratively with research engineers to support knowledge transfer and internal model comprehension. | ![Language: R](https://img.shields.io/badge/Language-R-blue?logo=r) ![Visualisation: networkD3](https://img.shields.io/badge/Visualisation-networkD3-darkgreen) |
 
 ### Personal Projects & Fitness
 | Project | Key Tasks | Skills Used |
