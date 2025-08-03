@@ -1,3 +1,10 @@
+I'm a backend-focused data engineer with experience building automated pipelines, sensor data integrations, and sustainable analytics tools. My work spans data ingestion, transformation (SQL, dbt), and reporting, often in environmental and mobility contexts. I use Python, SQL, and open data to create real-world, modular, and testable data systems.
+
+**Current Focus:**  
+- Completing IBM Data Engineering Certificate  
+- Finalising dbt + Snowflake project-based course  
+- Expanding streaming architecture skills (Kafka, Airflow)
+
 ### Data Engineering & Pipelines
 | Project | Key Tasks | Skills Used |
 |---------|-----------|-------------|
