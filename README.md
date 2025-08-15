@@ -3,7 +3,6 @@ I'm a backend-focused data and analytics engineer with a strong foundation in su
 
 **Current Focus:**  
 - Completing IBM Data Engineering Certificate  
-- Finalising dbt + Snowflake project-based course  
 - Expanding streaming architecture skills (Kafka, Airflow)
 
 
