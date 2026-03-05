@@ -2,8 +2,6 @@
 
 Data engineer specialising in industrial and environmental systems. I build pipelines for IoT sensor data, emissions tracking, and sustainability reporting. Experienced with production deployments in CO₂ capture contexts.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniel-lee-wilkinson&show_icons=true&hide_border=true)
-
 **Current Focus:**
 - Expanding streaming architecture skills (Kafka, Airflow). Actively building with Kafka in [**Aerostream: Sensor Stream Simulation Platform**](https://github.com/daniel-lee-wilkinson/aerostream) project
 - Completing IBM Data Engineering Certificate
