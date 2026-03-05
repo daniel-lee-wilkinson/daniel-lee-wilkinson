@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-Data engineer specialising in industrial and environmental systems. I build pipelines for IoT sensor data, emissions tracking, and sustainability reporting. My background is in mechanical engineering and life cycle assessment (LCA). I transitioned into data engineering through real production work and have been systematically building towards modern DE architecture ever since.
+Data engineer specialising in industrial and environmental systems. I build pipelines for IoT sensor data, emissions tracking, and sustainability reporting. My background is in environmental engineering and life cycle assessment (LCA). I transitioned into data engineering through real production work and have been systematically building towards modern DE architecture ever since.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--lee--wilkinson-blue?logo=linkedin)](https://www.linkedin.com/in/danielleewilkinson/)
 
