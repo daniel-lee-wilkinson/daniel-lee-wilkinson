@@ -12,7 +12,7 @@ Data engineer specialising in industrial and environmental systems. I build pipe
 Python · SQL · SQLite · DuckDB · pandas · GeoPandas · pytest · GitHub Actions · Streamlit · matplotlib · R
 
 **Expanding into:**
-dbt · Snowflake · Kafka · Docker · PostgreSQL · FastAPI
+BigQuery · dbt · Snowflake · Kafka · Docker · PostgreSQL
 
 ---
 
@@ -44,6 +44,7 @@ dbt · Snowflake · Kafka · Docker · PostgreSQL · FastAPI
 | Project | Key Tasks | Skills Used |
 |---------|-----------|-------------|
 | **dbt Airbnb Analytics Project** | End-to-end analytics engineering project built on a modern ELT architecture using dbt for transformation, Snowflake as the data warehouse, Dagster for orchestration, and Preset for visualisation. Based on a real-world Airbnb dataset: includes staging and transformation models, modular tests, seeds, snapshots, Jinja macros, and documentation. Developed independently as part of a dbt Bootcamp on Udemy. | ![Language: SQL](https://img.shields.io/badge/Language-SQL-blue?logo=postgresql) ![Transformation: dbt](https://img.shields.io/badge/Transformation-dbt-darkgreen?logo=dbt) ![Warehouse: Snowflake](https://img.shields.io/badge/Warehouse-Snowflake-lightblue?logo=snowflake) ![Orchestration: Dagster](https://img.shields.io/badge/Orchestration-Dagster-purple?logo=dagster) ![Dashboard: Preset](https://img.shields.io/badge/Dashboard-Preset-orange?logo=apache-superset) |
+| [**Capital Bikeshare SQL & BigQuery Analysis**](https://github.com/daniel-lee-wilkinson/capitalbikeshare_sql) | SQL analysis of Capital Bikeshare trip data, extended from a local SQLite pipeline to cloud-based analytics via BigQuery. Query logic, data processing, and visualisation are decoupled into separate modules; BigQuery exports to CSV for offline plotting and faster iteration. Includes a modular ingestion pipeline, pytest suite covering BigQuery imports and plotting functions, and CI/CD via GitHub Actions. Demonstrates local-to-cloud progression on the same analytical problem. | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Query: SQL](https://img.shields.io/badge/Query-SQL-blue) ![Database: SQLite](https://img.shields.io/badge/Database-SQLite-grey?logo=sqlite) ![Cloud: BigQuery](https://img.shields.io/badge/Cloud-BigQuery-blue?logo=googlebigquery) ![Visualisation: matplotlib](https://img.shields.io/badge/Visualisation-matplotlib-orange?logo=matplotlib) ![Tests: pytest](https://img.shields.io/badge/Tests-pytest-brightgreen) ![CI: GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-brightgreen?logo=github-actions) |
 | [**HR Skills Visualiser**](https://github.com/daniel-lee-wilkinson/hr_skills_visualiser) | Internal tool giving teams visibility over their collective skills. Split into two Streamlit apps: an employee-facing app (self-assessment across theoretical, practical, and interest dimensions) and a management app (gap analytics, per-person breakdown, CSV/Excel export). SQLite backend with full skill history for progression tracking. Includes a Faker-generated demo database and a pytest suite with isolated fixtures. | ![Language: Python](https://img.shields.io/badge/Language-Python%203.12-blue?logo=python) ![Interface: Streamlit](https://img.shields.io/badge/Interface-Streamlit-red?logo=streamlit) ![Database: SQLite](https://img.shields.io/badge/Database-SQLite-grey?logo=sqlite) ![Library: pandas](https://img.shields.io/badge/Library-pandas-green?logo=pandas) ![Visualisation: Plotly](https://img.shields.io/badge/Visualisation-Plotly-orange?logo=plotly) ![Library: Faker](https://img.shields.io/badge/Library-Faker-orange) ![Tests: pytest](https://img.shields.io/badge/Tests-pytest-brightgreen) |
 
 ---
@@ -62,7 +63,6 @@ dbt · Snowflake · Kafka · Docker · PostgreSQL · FastAPI
 
 ### Urban Mobility & Transport (remaining)
 - CareerFoundry CitiBike Portfolio
-- Capital Bikeshare SQL Analysis
 - Public Transport Delay Analysis Pipeline
 - Capital Bikeshare Demand Forecast
 
