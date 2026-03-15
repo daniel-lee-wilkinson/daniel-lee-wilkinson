@@ -42,7 +42,10 @@ BigQuery · dbt · Snowflake · Kafka · Docker · PostgreSQL
 
 ## Data Quality and Tooling
 
-| [**Schema Drift Detector**](https://github.com/daniel-lee-wilkinson/schema-drift-detector) | Lightweight CLI tool for validating CSVs against a YAML contract at ingestion time. Detects dtype mismatches, missing/extra columns, nullable and uniqueness violations, and min/max breaches. Statistical profiling flags median shifts across runs for recurring batch datasets. Produces one JSON report per file with configurable severity levels (`error`, `warning`, `info`). | ![Language: Python](https://img.shields.io/badge/Language-Python%203.11-blue?logo=python) ![Config: YAML](https://img.shields.io/badge/Config-YAML-lightgrey) ![Output: JSON](https://img.shields.io/badge/Output-JSON-lightgrey) ![Data Quality: contract--based](https://img.shields.io/badge/Data_Quality-contract--based-blueviolet) |
+
+| Project | Key Tasks | Skills Used |
+|---------|-----------|-------------|
+| [**Schema Drift Detector**](https://github.com/daniel-lee-wilkinson/schema-drift-detector) | Lightweight CLI tool for validating CSVs against a YAML contract at ingestion time. Detects dtype mismatches, missing/extra columns, nullable and uniqueness violations, and min/max breaches. Statistical profiling flags median shifts across runs for recurring batch datasets. Produces one JSON report per file with configurable severity levels (`error`, `warning`, `info`). | ![Language: Python](https://img.shields.io/badge/Language-Python%203.13-blue?logo=python) ![Config: YAML](https://img.shields.io/badge/Config-YAML-lightgrey) ![Output: JSON](https://img.shields.io/badge/Output-JSON-lightgrey) ![Data Quality: contract--based](https://img.shields.io/badge/Data_Quality-contract--based-blueviolet) |
 
 ---
 
