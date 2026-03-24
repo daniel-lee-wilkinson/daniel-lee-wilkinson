@@ -5,16 +5,24 @@ Data engineer specialising in industrial and environmental systems. I build pipe
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-daniel--lee--wilkinson-blue?logo=linkedin)](https://www.linkedin.com/in/danielleewilkinson/)
 
 **Current Focus:**
+- Completing the DataTalksClub Data Engineering Zoomcamp (9-week cohort, 2026)
 - Expanding streaming architecture skills (Kafka, Airflow). Actively building with Kafka in [**Aerostream**](https://github.com/daniel-lee-wilkinson/aerostream)
-- Completing IBM Data Engineering Certificate
 
 **Core Stack:**
 Python · SQL · SQLite · DuckDB · pandas · GeoPandas · pytest · GitHub Actions · Streamlit · matplotlib · R
 
 **Expanding into:**
-BigQuery · dbt · Snowflake · Kafka · Docker · PostgreSQL
+BigQuery · dbt · Kafka · Docker · PostgreSQL · Terraform · GCP
 
 ---
+
+## DataTalksClub Data Engineering Zoomcamp
+
+> *Nine-week structured course building end-to-end data pipelines with industry-standard tools*
+
+| Module | Key Tasks | Skills Used |
+|--------|-----------|-------------|
+| [**Module 1: Containerisation & Infrastructure as Code**](https://github.com/daniel-lee-wilkinson/data-engineering-zoomcamp/blob/main/homework/hw1.md) | Containerised PostgreSQL + pgAdmin with Docker Compose. Ingested and analysed NYC green taxi trip data (parquet + CSV) in both pandas and PostgreSQL SQL. Provisioned Google Cloud Storage and BigQuery with Terraform. | ![Docker](https://img.shields.io/badge/Deployment-Docker-lightblue?logo=docker) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql) ![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform) ![BigQuery](https://img.shields.io/badge/Cloud-BigQuery-blue?logo=googlebigquery) ![GCP](https://img.shields.io/badge/Cloud-GCP-orange?logo=googlecloud) |
 
 ## Industrial IoT & CO₂ Capture
 
